@@ -1,11 +1,13 @@
 <h1 align="center">Hi There 👋 I'm Farah!</h1>
 <h3 align="center">A person who's deeply interest with AI and ML</h3>
 
+
 - 🎓 Bachelor in **Mechanical Engineering** specialization in **AI and ML**
 - 🏫 I'm currently learning **SQL**
 - 📫 How to reach me **fyans143@gmail.com**
 
 Thank you for stopping by!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
