@@ -4,7 +4,7 @@
 
 - 🎓 Bachelor in **Mechanical Engineering** specialization in **AI and ML**
 - 📄 Certified in Azure Fundamentals, Azure Data Fundamentals, and Azure AI Fundamentals
-- 🏫 I'm currently learning **SQL**
+- 🏫 I'm currently learning **Power BI**
 - 📫 Kindly reach me through **fyans143@gmail.com**
 
 Thank you for stopping by!
